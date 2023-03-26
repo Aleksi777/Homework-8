@@ -1,0 +1,18 @@
+/*დაიწყო work1*/
+.work1{
+    margin: 150px  auto;
+    width: 200px;
+    height: 200px;
+    border: 10px ;
+    box-shadow: 10px 15px 5px rgb(255, 0, 0);
+    transition-property: all;
+    transition-duration: 2s;
+   
+}
+
+.work1:hover{
+transform: scale(2);
+box-shadow: 10px 15px 50px rgb(255, 0, 0);
+}
+
+/*დამთავრდა work1*/
