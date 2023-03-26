@@ -60,6 +60,67 @@ animation-fill-mode: forwards;
 
 /*დამთავრდა work2*/
 
+/*დაიწყო work3*/
+.Lorem{
+    color: red;
+    margin:250px auto ;
+    font-size: 20px;
+    animation-name: textpx;
+    animation-duration: 10s;
+
+}
+
+@keyframes textpx {
+    0%{
+        
+        font-size: 20px; 
+    }
+
+    10%{
+        
+        font-size: 19px;
+    }
+
+    20%{
+        
+        font-size: 18px;
+    }
+
+    30%{
+        
+        font-size: 17px;
+    }
+
+    40%{
+        font-size: 16px;
+    }
+
+    50%{
+        font-size: 15px;
+    }
+
+    60%{
+        font-size: 14px;
+    }
+    70%{
+        font-size: 13px;
+    }
+    80%{
+        font-size: 12px;
+    }
+    90%{
+        font-size: 11px;
+    }
+
+    100%{
+        font-size: 10px;
+    }
+
+
+}
+
+/*დამთავრდა work3*/
+
 
 
 
